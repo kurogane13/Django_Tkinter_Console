@@ -1,4 +1,4 @@
-# Django_Tkinter_Console
+# Django Tkinter Console
 Django Python/Bash interactive tkinter console
 
 ------------------------------------------------------------------------------------------------------
