@@ -40,8 +40,8 @@ Python Development tools:
 How to run the program
 ------------------------------------------------------------------------------------------------------
 
-1. Clone the repo (wget)
-2. Rename the cloned (Downloaded repo) to Django
+1. Clone the repo (wget https://github.com/kurogane13/Django_Tkinter_Console.git)
+2. Rename the cloned (Downloaded repo) to Django. ---> mv Django_Tkinter_Console Django
 3. Place the Django in the /home/$USER path
 4. Once all the pre-requisites are installed and running, open the gnome-terminal and run python3.x django_console.py
 5. The program will launch the Python tkinter GUI with the 9 buttons.
