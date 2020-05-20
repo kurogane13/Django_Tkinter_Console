@@ -27,13 +27,14 @@ Functionalities the progam offers:
 
 Pre-requisites to run the program
 ------------------------------------------------------------------------------------------------------
+Python Development tools:
+
 -python3.x
--python libaries to be installed: 
-    -tkinter
-    -os
-    -time
-    -datetime
--linux bash
+-python libaries to be installed: tkinter, os, time, datetime
+
+ Linux tools:
+ 
+-linux bash shell
 -gnome-terminal
 
 How to run the program
