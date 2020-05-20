@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=django_console.Desktop
+Comment=
+Exec=/usr/bin/python2.7 /home/gus/Desktop/tkinter-created-apps/django_console.py
+Icon=/home/gus/Pictures/django_administration_console.png
+Terminal=false
+Type=Application
+Categories=Application

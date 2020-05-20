@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Dango_Console
+Comment=
+Exec=gnome-terminal -- python3.6 /home/gus/Django/django_console.py
+Icon=/home/gus/Pictures/launcher_icons/Django.png
+Terminal=false
+Type=Application
+Categories=Application
